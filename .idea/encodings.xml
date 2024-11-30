@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/Adaptive.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/AlwaysBetray.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/AlwaysCooperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/Decision.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/ForgivingGrudgerStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/GradualStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/GrimTrigger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/NaivePeacemaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/NaiveProber.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/Pavlov.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/PavlovRandom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/RandomStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/RemorsefulProber.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/Strategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/SuspiciousTitForTatStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/TitForTat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/TitForTatRandom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/TitForTwoTats.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/TitForTwoTatsRandom.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/dillemaprisonner/ugamiage12024group2_6/strategies/TruePeacemaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
